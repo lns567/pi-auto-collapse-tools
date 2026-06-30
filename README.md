@@ -11,7 +11,7 @@ Compress pi's 7 built-in tool outputs into **single-line summaries**. No more te
 ## 安装 / Install
 
 ```bash
-pi install pi-slim-tools
+pi install npm:pi-slim-tools
 ```
 
 ## 手动安装 / Manual
